@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import datetime
-
 '''
     构建一个具有1个隐藏层的神经网络，隐层的大小为6
     输入层为2（或4）个特征；输出层1个节点，结果为0或1
