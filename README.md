@@ -9,11 +9,11 @@
 3.`iris_test.csv`：测试数据
 
 ##### 1.2 代码
-1.`1iris_data_classification__knn.py`
+1.`iris_data_classification_knn.py`
 通过KNN算法实现4种鸢尾花的分类
-2.`iris_data_classification__bpnn_V1.py`
+2.`iris_data_classification_bpnn_V1.py`
 通过BP神经网络，基于2个特征，实现2种鸢尾花的分类
-3.`iris_data_classification__bpnn_V2.py`
+3.`iris_data_classification_bpnn_V2.py`
 通过BP神经网络，基于4个特征，实现3种鸢尾花的分类
 4.`iris_data_cluster_sklearn.py`
 通过KMeans和DBSCAN算法实现鸢尾花的聚类
@@ -31,8 +31,8 @@
 3.`circle_data_process.py`
 将坐标转换成半径，并做格式处理（只适用于BP神经网络算法）
 4.`circle_data_classification__knn.py`
-通过KNN算法实现不同半径圆的分类
+通过KNN算法实现不同半径的圆的分类
 5.`circle_data_classification_bpnn.py`
-通过BP神经网络实现不同半径圆的分类
+通过BP神经网络实现不同半径的圆的分类
 
 
