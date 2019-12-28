@@ -6,7 +6,9 @@
 
 ##### 1.1 数据
 1.`iris.csv`：全部数据
+
 2.`iris_training.csv`：训练数据
+
 3.`iris_test.csv`：测试数据
 
 ##### 1.2 代码
@@ -38,7 +40,7 @@
 3.`circle_data_process.py`
 将坐标转换成半径，并做格式处理（只适用于BP神经网络算法）
 
-4.`circle_data_classification__knn.py`
+4.`circle_data_classification_knn.py`
 通过KNN算法实现不同半径的圆的分类
 
 5.`circle_data_classification_bpnn.py`
